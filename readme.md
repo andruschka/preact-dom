@@ -9,8 +9,8 @@ App = (props)=>
     "Hello, click this button:",
     button {}, "click me"
 ```
-(You was able to write a clean and readable syntax in coffee, without the use of JSX)
-You can't do this with preact, as preact does not have a DOM Object.
+(You was able to write a clean and readable syntax in coffee (without the use of JSX).  
+You couldn't do this with preact, as preact does not have the DOM Object.
 
 ## but now you can:
 ```

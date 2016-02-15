@@ -1,6 +1,6 @@
 {
   "name": "preact-dom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React.DOM counterpart for preact (useful with coffeescript)",
   "main": "main.js",
   "scripts": {
